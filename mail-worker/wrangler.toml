@@ -48,7 +48,7 @@ new_sqlite_classes = ["MailHub"]
 #analysis_cache = false			#是否开启分析数据缓存
 #orm_log = false			#是否sql日志
 domain = ["wenziyue.uk", "wenziyue.cc.cd"]
-admin = "admin@wenziyue.cc.cd"
+admin = "admin@wenziyue.uk"
 #jwt_secret = ""			#jwt令牌的密钥,随便填一串字符串
 
 [build]
